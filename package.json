@@ -1,7 +1,7 @@
 {
-  "name": "tictactoe",
+  "name": "alpha-beta",
   "version": "1.0.0",
-  "description": "Tic tac toe",
+  "description": "Alpha Beta",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
